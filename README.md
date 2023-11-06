@@ -1,1 +1,1 @@
- https://dkurazan.github.io/Lab-3/
+Url: https://dkurazan.github.io/Lab-3/
